@@ -26,8 +26,12 @@ The Solow model predicts that those with lower initial GDP per capita (ie. devel
 (c) MRW Model (Mankiw, Romer, Weil) 
 
 The MRW model incorporates human capital accumulation to the Solow Model in order to improve the model's explanation of variation of GDP/capita across countries.
-- Coefficient of 1.95, showing a 1% increase in savings, predicing a 1.95% increase in Y/L (2005)
+- Coefficient of 1.95, showing a 1% increase in savings, predicting a 1.95% increase in Y/L (2005)
 - R squared of around 50%
 
+(d) HJ Model (Hall and Jones)
+The HJ model emphasizes the role that technology plays in the long run growth of GDP/capita
+- In this log-log model, B1 estimator is 1.1315, which is interpreted as a 1% increase in A(2005) predicts a 1.13% increase in Y/L (2005)
+- R squared 90%
 
 
