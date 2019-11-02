@@ -18,3 +18,13 @@ Analyzing growth rates and running regressions on Penn World Table data (example
 -	Standard Deviation across countries & all time for “n”, the average growth rate of the labor force
 -	Standard Deviation across countries & all time for “gY/L”, the average growth rate of Y/L
 
+(b) Unconditional Convergence
+
+The Solow model predicts that those with lower initial GDP per capita (ie. developing countries) would grow at a faster GDP/capita growth rate and vice versa. These countries would only converge to the same steady state growth rate if they have the same characteristics(paramters) that determine their steady state (such as savings, population growth). This regression is showing that since the countries do not have the same parameters, there is a very weak correlation between initial GDP per capita and GDP/capita growth rate, which shows "unconditional convergence" because the countries are not converging to the same steady state.
+
+(c) MRW Model (Mankiw, Romer, Weil) 
+
+The MRW model incorporates human capital accumulation to the Solow Model in order to improve the model's explanation of variation of GDP/capita across countries.
+
+
+
